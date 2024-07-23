@@ -1,47 +1,42 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "ROOBngy - Links",
+  "Name": "ROOBngy",
+  "Description": "I'm ROOBngy, a editor dedicated to\ncrafting impeccable and engaging content.",
   "links": [
     {
-      "Title": "Website",
-      "URL": "http://www.harindu.dev",
-      "icon_classes": "fas fa-link",
-    },
-    {
       "Title": "Github",
-      "URL": "https://github.com/harindulk",
+      "URL": "https://github.com/R00Bngy",
       "icon_classes": "fab fa-github",
     },
     {
-      "Title": "Play Store",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-      "icon_classes": "fab fa-google-play"
-    },
-    {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
-    },
-    {
-      "Title": "Blog",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-blog"
-    },
-    {
-      "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
-      "icon_classes": "fab fa-twitter"
-    },
-    {
       "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "URL": "https://www.linkedin.com/in/roobngy/",
       "icon_classes": "fab fa-linkedin"
     },
     {
       "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://www.youtube.com/@roobngy1597",
       "icon_classes": "fab fa-youtube"
     },
+    {
+      "Title": "Twitch",
+      "URL": "https://www.twitch.tv/roobngy",
+      "icon_classes": "fab fa-twitch"
+    },
+    {
+      "Title": "Instagram",
+      "URL": "https://www.instagram.com/roobngy_official",
+      "icon_classes": "fab fa-instagram"
+    },
+    {
+      "Title": "Reddit",
+      "URL": "https://www.reddit.com/u/ROOBngy/",
+      "icon_classes": "fab fa-reddit"
+    },
+    {
+      "Title": "Steam",
+      "URL": "https://steamcommunity.com/profiles/76561199077824765",
+      "icon_classes": "fab fa-steam"
+    }
   ]
 }
