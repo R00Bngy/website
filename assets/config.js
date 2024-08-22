@@ -25,7 +25,7 @@ let config = {
     },
     {
       "Title": "Instagram",
-      "URL": "https://www.instagram.com/roobngy_official",
+      "URL": "https://www.instagram.com/roobngy",
       "icon_classes": "fab fa-instagram"
     },
     {
