@@ -4,6 +4,10 @@ let config = {
   "Description": "I'm ROOBngy, a editor dedicated to\ncrafting impeccable and engaging content.",
   "links": [
     {
+      "Title": "Link Amazon Prime",
+      "URL": "http://www.amazon.it/amazonprime?tag=ROOBngy",
+      "icon_classes": "fab fa-amazon"
+    {
       "Title": "Github",
       "URL": "https://github.com/R00Bngy",
       "icon_classes": "fab fa-github",
