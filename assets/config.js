@@ -7,6 +7,7 @@ let config = {
       "Title": "Link Amazon Prime",
       "URL": "http://www.amazon.it/amazonprime?tag=ROOBngy",
       "icon_classes": "fab fa-amazon"
+    },
     {
       "Title": "Github",
       "URL": "https://github.com/R00Bngy",
