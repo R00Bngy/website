@@ -4,19 +4,14 @@ let config = {
   "Description": "I'm ROOBngy, a editor dedicated to\ncrafting impeccable and engaging content.",
   "links": [
     {
-      "Title": "Link Amazon Prime",
+      "Title": "Amazon whishlist",
       "URL": "http://www.amazon.it/amazonprime?tag=ROOBngy",
       "icon_classes": "fab fa-amazon",
     },
     {
-      "Title": "Github",
-      "URL": "https://github.com/R00Bngy",
-      "icon_classes": "fab fa-github",
-    },
-    {
-      "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/roobngy/",
-      "icon_classes": "fab fa-linkedin"
+      "Title": "Instagram",
+      "URL": "https://www.instagram.com/roobngy",
+      "icon_classes": "fab fa-instagram"
     },
     {
       "Title": "Youtube",
@@ -29,19 +24,14 @@ let config = {
       "icon_classes": "fab fa-twitch"
     },
     {
-      "Title": "Instagram",
-      "URL": "https://www.instagram.com/roobngy",
-      "icon_classes": "fab fa-instagram"
+      "Title": "Github",
+      "URL": "https://github.com/R00Bngy",
+      "icon_classes": "fab fa-github",
     },
     {
-      "Title": "Reddit",
-      "URL": "https://www.reddit.com/u/ROOBngy/",
-      "icon_classes": "fab fa-reddit"
-    },
-    {
-      "Title": "Steam",
-      "URL": "https://steamcommunity.com/profiles/76561199077824765",
-      "icon_classes": "fab fa-steam"
+      "Title": "LinkedIn",
+      "URL": "https://www.linkedin.com/in/roobngy/",
+      "icon_classes": "fab fa-linkedin"
     }
   ]
 }
