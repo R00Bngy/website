@@ -5,7 +5,7 @@ let config = {
   "links": [
     {
       "Title": "Amazon whishlist",
-      "URL": "http://www.amazon.it/amazonprime?tag=ROOBngy",
+      "URL": "https://www.amazon.it/hz/wishlist/ls/3TCSYELN0HMIL?ref_=wl_share",
       "icon_classes": "fab fa-amazon",
     },
     {
