@@ -30,7 +30,7 @@ let config = {
 
     {
       "Title": "Telegram",
-      "URL": "https://t.me/leavventurediroob"
+      "URL": "https://t.me/leavventurediroob",
       "icon_classes": "fab fa-telegram"
     }
     /*
