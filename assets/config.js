@@ -1,8 +1,8 @@
 let config = {
   "Title": "ROOBngy - Links",
   "Name": "ROOBngy",
-// "Description": "I'm ROOBngy, a editor dedicated to\ncrafting impeccable and engaging content.",
- "Description": "I'm ROOBngy, /nI'm just a chill guy",
+ "Description": "I'm ROOBngy, a editor dedicated to\ncrafting impeccable and engaging content.",
+ //"Description": "I'm ROOBngy, /nI'm just a chill guy",
 
   "links": [
     {
