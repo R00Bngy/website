@@ -6,20 +6,27 @@ let config = {
 
   "links": [
     {
-      "Title": "Amazon whishlist",
-      "URL": "https://www.amazon.it/hz/wishlist/ls/3TCSYELN0HMIL?ref_=wl_share",
-      "icon_classes": "fab fa-amazon",
-    },
-    {
       "Title": "Instagram",
       "URL": "https://www.instagram.com/roobngy",
       "icon_classes": "fab fa-instagram"
     },
-/*
+
+    {
+      "Title": "Discord",
+      "URL": "https://discord.gg/fCnja4TNBK",
+      "icon_classes": "fa-brands fa-discord"
+    },
+    /*
     {
       "Title": "Youtube",
       "URL": "https://www.youtube.com/@roobngy1597",
       "icon_classes": "fab fa-youtube"
+    },
+    
+    {
+      "Title": "Amazon whishlist",
+      "URL": "https://www.amazon.it/hz/wishlist/ls/3TCSYELN0HMIL?ref_=wl_share",
+      "icon_classes": "fab fa-amazon",
     },
     */
     {
